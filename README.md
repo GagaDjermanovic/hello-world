@@ -1,2 +1,3 @@
 # hello-world
 Hi guys, I'm new here trying to follow initial instructions :)
+What can I say, I'm coming from a world not as cool as yours and I reacently realized that I must understand programming ASAP. So here I am... 
